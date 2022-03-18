@@ -2,8 +2,6 @@
 
 setup a docker-compose envirenment with vagrant
 
-now os is ubuntu
-
 ## prepare
 
 - virtualbox
@@ -37,3 +35,7 @@ yemiancheng <ymc.github@gmail.com>
 ## License
 
 MIT
+
+## operation system
+
+now is ubuntu 1804
