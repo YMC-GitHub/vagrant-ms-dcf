@@ -1,6 +1,8 @@
-# dcf-on-ubuntu
+# vagrant-ms-dcf
 
-setup a docker-compose envirenment on ubuntu with vagrant
+setup a docker-compose envirenment with vagrant
+
+now os is ubuntu
 
 ## prepare
 
@@ -12,7 +14,7 @@ setup a docker-compose envirenment on ubuntu with vagrant
 ```bash
 # speed up git clone in china
 GC_PROXY="https://ghproxy.com/"
-GC_URL="https://github.com/YMC-GitHub/vagrant-dcf-on-ubuntu.git"
+GC_URL="https://github.com/YMC-GitHub/vagrant-ms-dcf.git"
 GC_URL="${GC_PROXY}${GC_URL}"
 git clone -b main "$GC_URL"
 ```
